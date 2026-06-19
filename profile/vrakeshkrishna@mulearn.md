@@ -35,7 +35,7 @@
 - **Winner:** Portugal to be crowned, as the squad  has that determination and passiom.
 - **Dark horse:** Morocco. They proved in 2022 they can beat anyone on their day, and they'll be even better organised this time.
 - **Player of the tournament:** Jude Bellingham, as this is his stage.
-- **Most anticipated match:** Portugal vs France, if it happens in the knockouts. A rematch of 2022 final is the game everyone wants.
+- **Most anticipated match:** Portugal vs France, if it happens in the knockouts. 
 
 #### μFIFA World Cup 2026 - Tournament Goals:
 
@@ -73,8 +73,8 @@
 
 - BTech in Artificial Intelligence and Machine Learning from Marian Engineering College , Menamkulam.
 - Certifications: Nasscomm digital edge 101 , Machine learning at alpha innovation, AI unleashed by FOSS UNITED , CYBER SECURITY AND ETHICAL HACKING BY UDEMY.
-- GitHub: [sachin-raj-m](https://github.com/vrakeshkrishna)
-- LinkedIn: [sachinrajm](https://www.linkedin.com/in/vrakeshkrishna)
+- GitHub: [vrakeshkrishna](https://github.com/vrakeshkrishna)
+- LinkedIn: [vrakeshkrishna](https://www.linkedin.com/in/vrakeshkrishna)
 
 #### History of Leadership:
 
